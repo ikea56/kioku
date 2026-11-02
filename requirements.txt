@@ -1,0 +1,8 @@
+streamlit>=1.40.0
+pandas>=2.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+lightgbm>=4.3.0
+plotly>=5.20.0
+yfinance>=0.2.50
+requests>=2.31.0
